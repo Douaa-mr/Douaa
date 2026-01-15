@@ -13,7 +13,7 @@ et visualisation des données à l’aide de Power BI.
 
 <h2>👨‍💻 Projets académiques réalisés</h2>
 
-<li>
+ <li>
   <b>Projet Machine Learning : Analyse prédictive du risque de crédit client</b><br/>
   <i>
     Développement d’un modèle de machine learning pour estimer le risque de crédit des clients
