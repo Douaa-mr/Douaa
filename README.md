@@ -64,6 +64,11 @@ et visualisation des données à l’aide de Power BI.
   <img align="left" alt="LinkedIn" width="22px"
   src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+<p>
+<a href="CV_Douaa_Mahir.pdf" target="_blank">
+📄 Télécharger mon CV
+</a>
+</p>
 
 <p>
 <a href="https://linkedin.com/in/douaa-mahir-884553290" target="_blank">
