@@ -13,6 +13,16 @@ et visualisation des données à l’aide de Power BI.
 
 <h2>👨‍💻 Projets académiques réalisés</h2>
 
+<li>
+  <b>Projet Machine Learning : Analyse prédictive du risque de crédit client</b><br/>
+  <i>
+    Développement d’un modèle de machine learning pour estimer le risque de crédit des clients
+    à partir de variables socio-démographiques et financières, afin d’aider à la prise de décision.
+  </i>
+</li>
+
+<br/>
+
 <ul>
   <li>
     <b>L’influence des situations économiques mondiales sur le comportement d’investissement et d’épargne chez les ménages au Maroc</b><br/>
