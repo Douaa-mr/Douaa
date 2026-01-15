@@ -13,61 +13,37 @@ et visualisation des données à l’aide de Power BI.
 
 <h2>👨‍💻 Projets académiques réalisés</h2>
 
- <li>
-  <b>Projet Machine Learning : Analyse prédictive du risque de crédit client</b><br/>
-  <i>
-    Développement d’un modèle de machine learning pour estimer le risque de crédit des clients
-    à partir de variables socio-démographiques et financières, afin d’aider à la prise de décision.
-  </i>
-</li>
-
-<br/>
-
 <ul>
   <li>
-    <b>L’influence des situations économiques mondiales sur le comportement d’investissement et d’épargne chez les ménages au Maroc</b><br/>
+    <b>Projet Machine Learning : Analyse prédictive du risque de crédit client</b><br>
+    <i>
+      Développement d’un modèle de machine learning visant à estimer le risque de crédit
+      des clients à partir de données financières et socio-démographiques.
+    </i>
+  </li>
+
+  <li>
+    <b>L’influence des situations économiques mondiales sur le comportement d’investissement et d’épargne chez les ménages au Maroc</b><br>
     <i>
       Analyse de l’impact des conditions économiques mondiales sur les décisions
-      d’épargne et d’investissement des ménages marocains à partir de données
-      économiques et statistiques.
+      d’épargne et d’investissement des ménages marocains.
     </i>
   </li>
-
-  <br/>
 
   <li>
-    <b>Analyse de la cybersécurité dans les PME : Gouvernance des systèmes d’information et protection des données</b><br/>
+    <b>Analyse de la cybersécurité dans les PME : Gouvernance des systèmes d’information et protection des données</b><br>
     <i>
-      Étude des enjeux de la cybersécurité au sein des PME, avec un focus sur
-      la gouvernance des systèmes d’information, la gestion des risques et la
-      protection des données sensibles.
+      Étude des enjeux de la cybersécurité au sein des PME, axée sur la gouvernance
+      des systèmes d’information et la protection des données sensibles.
     </i>
   </li>
-
-  <br/>
 
   <li>
-    <b>Modèle de Machine Learning pour la prédiction des prix de l’immobilier au Maroc</b><br/>
+    <b>Modèle de Machine Learning pour la prédiction des prix de l’immobilier au Maroc</b><br>
     <i>
-      Conception et implémentation d’un modèle de prédiction des prix immobiliers
-      en fonction des caractéristiques du logement (surface, localisation,
-      nombre de pièces, etc.).
-    </i>
-  </li>
+      Conception d’un modèle prédictif permettant d’estimer les prix de l’immobilier
+      en fonction des caractéristiques des logements
 
-  <br/>
-
-  <li>
-    <b>Projet Power BI – Analyse et visualisation des données commerciales (RetailPlus)</b><br/>
-    <i>
-      Création de tableaux de bord interactifs sous Power BI pour analyser
-      les performances commerciales, les ventes et les indicateurs clés
-      d’aide à la décision.
-    </i>
-  </li>
-</ul>
-
-<hr/>
 
 <h2>🛠️ Outils & compétences</h2>
 
